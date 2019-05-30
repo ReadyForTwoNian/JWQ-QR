@@ -2,7 +2,8 @@
 #include<stdlib.h>
 int main()
 {
-  printf("hahahahaha"\n);
+  printf("hahahahaha");
+  printf("xixixi\n")
   system("pause);
   return 0;
 }
