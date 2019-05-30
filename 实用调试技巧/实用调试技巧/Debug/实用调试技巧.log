@@ -1,0 +1,11 @@
+﻿生成启动时间为 2019/5/28 16:21:37。
+     1>项目“C:\Users\JWQ\Documents\Visual Studio 2013\Projects\实用调试技巧\实用调试技巧\实用调试技巧.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "源.c"
+         源.c
+     1>c:\users\jwq\documents\visual studio 2013\projects\实用调试技巧\实用调试技巧\源.c(41): error C2166: 左值指定 const 对象
+     1>已完成生成项目“C:\Users\JWQ\Documents\Visual Studio 2013\Projects\实用调试技巧\实用调试技巧\实用调试技巧.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.09
