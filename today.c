@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main()
 {
-  printf("heheheh"\n);
+  printf("hahahahaha"\n);
   system("pause);
   return 0;
 }
